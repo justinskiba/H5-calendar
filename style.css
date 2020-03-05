@@ -1,0 +1,11 @@
+textarea {
+  width: 500px;
+  height: 100px;
+  color: black;
+  /* background-color: seagreen; */
+}
+
+.hour {
+  margin: 20px !important;
+  font-size: 35px;
+}
